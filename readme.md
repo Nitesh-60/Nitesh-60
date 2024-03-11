@@ -13,7 +13,8 @@
 
 - 📫 How to reach me **pandeynitesh1302@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1EqGquA1oQbYNtlm2-DBHFmP_Rcocsc1j/view?usp=drive_link)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1FrWG30oMA0WZal63zcomb9XtQv8Dhmmv/view?usp=drive_link
+)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
