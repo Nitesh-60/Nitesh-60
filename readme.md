@@ -9,12 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Nitesh-60)
 
-- 💬 Ask me about **React, Javascript, Nodejs, Express, Python, Data structure and Algorithms**
+- 💬 Ask me about **React, Javascript, Nodejs, Express, Python, Data structure and Algorithms, MongoDb, PostgreSql**
 
 - 📫 How to reach me **pandeynitesh1302@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1FrWG30oMA0WZal63zcomb9XtQv8Dhmmv/view?usp=drive_link
-)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1mr7zI3iim4FK0-68Z7lJ0E4FfE3noK4K/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
